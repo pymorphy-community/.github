@@ -6,5 +6,5 @@ Why separate organization? See related issue: https://github.com/pymorphy2/pymor
 
 See:
 
-- [discussions](https://github.com/orgs/pymorphy-community/discussions)
-- [roadmap](https://github.com/orgs/pymorphy-community/projects/3)
+- [Discussions](https://github.com/orgs/pymorphy-fork/discussions)
+- [Roadmap](https://github.com/orgs/pymorphy2-fork/projects/3)
