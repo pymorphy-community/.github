@@ -6,6 +6,6 @@ We are trying to revive and continue development of [Pymorphy2](https://github.c
 
 Links:
 
-- [Discussions](https://github.com/orgs/pymorphy2-fork/discussions)
 - [Roadmap](https://github.com/orgs/pymorphy2-fork/projects/3)
 - [Pymorhphy2 documentation (in Russian)](https://pymorphy2.readthedocs.io/en/stable/)
+- [Discussions](https://github.com/orgs/pymorphy2-fork/discussions)
