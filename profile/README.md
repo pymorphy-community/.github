@@ -7,5 +7,5 @@ We are trying to revive and continue development of [Pymorphy2](https://github.c
 Links:
 
 - [Roadmap](https://github.com/orgs/pymorphy2-fork/projects/3)
-- [Pymorhphy2 documentation (in Russian)](https://pymorphy2.readthedocs.io/en/stable/)
+- [Pymorphy2 documentation (in Russian)](https://pymorphy2.readthedocs.io/en/stable/)
 - [Discussions](https://github.com/orgs/pymorphy2-fork/discussions)
