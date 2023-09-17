@@ -9,3 +9,6 @@ Links:
 - [Roadmap](https://github.com/orgs/pymorphy2-fork/discussions/1)
 - [Pymorphy2 documentation (in Russian)](https://pymorphy2.readthedocs.io/en/stable/)
 - [Discussions](https://github.com/orgs/pymorphy2-fork/discussions)
+<!--
+![GitHub followers](https://img.shields.io/github/followers/pymorphy2-fork?style=for-the-badge)
+-->
